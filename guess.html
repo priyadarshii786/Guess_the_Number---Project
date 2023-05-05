@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Karla&family=VT323&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="guess.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1 class="heading">Guessing Game</h1>
+            <br>
+            <h2>Tathagat Priyadarshi</h2>
+            <div class="head display-none">
+                <div class="number ">??</div>
+            </div>
+        </header>
+        <main>
+
+            <h1 class="lose display-none">You lose the game. <br> Your chances is finished </h1>
+            <h1 class="win display-none">Congratulation! <br> you won the game</h1>
+
+            <p class="title">This is number guessing game. <br> Computer genrates a random number <br> if you able to
+                guess its number in the 5 chances you win the game</p>
+            <button class="play-game ">Play game</button>
+            <button class="play-again display-none ">Play again</button>
+            <div class="pick-levels display-none">
+                <h2>Pick a level</h2>
+                <div class="levels">
+                    <div class="easy">
+                        <h3>Easy</h3>
+                        <p>1-10</p>
+                    </div>
+                    <div class="medium">
+                        <h3>Medium</h3>
+                        <p>1-100</p>
+                    </div>
+                    <div class="hard">
+                        <h3>Hard</h3>
+                        <p>1-200</p>
+                    </div>
+                </div>
+            </div>
+            <input type="number" class="guess display-none">
+            <button class="match display-none">Check</button>
+
+
+            <p class="message display-none">Let's Start</p>
+            <p class="msg-score display-none">You have <span class="score">5</span> Chances left</p>
+        </main>
+
+    </div>
+
+
+
+
+    <script src="guess.js"></script>
+</body>
+
+</html>
