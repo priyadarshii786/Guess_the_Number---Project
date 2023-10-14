@@ -10,11 +10,11 @@ https://priyadarshii786.github.io/Guess_the_Number-Project/
 
 <hr>
 
-![SS1](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/28211f43-4871-4c6b-a247-861e772a0a20)
+![SS1](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/28211f43-4871-4c6b-a247-861e772a0a20)<hr>
 
-![SS2](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/937f3eb3-887e-4f19-8ad3-7ca559b6f159)
+![SS2](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/937f3eb3-887e-4f19-8ad3-7ca559b6f159)<hr>
 
-![SS3](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/b580e1bf-db1f-46b7-b2ec-ccd9859cb390)
+![SS3](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/b580e1bf-db1f-46b7-b2ec-ccd9859cb390)<hr>
 
-![SS4](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/7318843e-0df7-47e9-b24d-48bdf5f1a873)
+![SS4](https://github.com/priyadarshii786/Guess_the_Number-Project/assets/100780858/7318843e-0df7-47e9-b24d-48bdf5f1a873)<hr>
 
